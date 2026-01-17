@@ -31,10 +31,10 @@ module.exports = {
                 message.unsend(waitMsg.messageID);
             }, 4000);
 
-            const botName = "𝑴𝑨𝑯𝑨𝑩𝑼𝑩-𝑩𝑶𝑻";
+            const botName = "Milon-𝑩𝑶𝑻";
             const botPrefix = `${global.GoatBot.config.prefix}`;
-            const authorName = "𝑴𝑨𝑯𝑨𝑩𝑼𝑩 𝑹𝑨𝑯𝑴𝑨𝑵";
-            const authorFB = "https://www.facebook.com/www.xnxx.com140";
+            const authorName = "Milon 𝑹𝑨𝑯𝑴𝑨𝑵";
+            const authorFB = "https://www.facebook.com/share/17uGq8qVZ9/";
             const authorInsta = "@mahabub_rahman_404";
             const status = "𝑺𝑰𝑵𝑮𝑳𝑬..!";
 
@@ -68,10 +68,10 @@ module.exports = {
                     body:
 `╭─╼━━━[ 🌟 𝑩𝑶𝑻 & 𝑨𝑼𝑻𝑯𝑶𝑹 𝑰𝑵𝑭𝑶 🌟 ]━━━╾─╮
 ┃
-┃ 👤 𝑶𝒘𝒏𝒆𝒓: ${authorName}
-┃ 🤖 𝑩𝒐𝒕 𝑵𝒂𝒎𝒆: ${botName}
-┃ 🔰 𝑷𝒓𝒆𝒇𝒊𝒙: ${botPrefix}
-┃ ❤ 𝑹𝒆𝒍𝒂𝒕𝒊𝒐𝒏: ${status}
+┃ 👤 𝑶𝒘𝒏𝒆𝒓: "MILON HASAN";
+┃ 🤖 𝑩𝒐𝒕 𝑵𝒂𝒎𝒆: "MILON-BOT";
+┃ 🔰 𝑷𝒓𝒆𝒇𝒊𝒙: "GoatBot.config.prefix}`;
+┃ ❤ 𝑹𝒆𝒍𝒂𝒕𝒊𝒐𝒏: "𝑺𝑰𝑵𝑮𝑳𝑬..!";
 ┃
 ┃ 📆 𝑫𝒂𝒕𝒆: ${date}
 ┃ ⏰ 𝑻𝒊𝒎𝒆: ${time}
